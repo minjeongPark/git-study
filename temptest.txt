@@ -1,4 +1,0 @@
-testgit
-editedit
-bye zionex
-commit
