@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b701bd10-ed61-4c7a-8e1e-95f7ef612de3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/db/changelog/db.changelog-master.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoFooter.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoHeader.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoInput.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoList.vue" beforeDir="false" />
+    <list default="true" id="b701bd10-ed61-4c7a-8e1e-95f7ef612de3" name="Default Changelist" comment="sprint commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test-release" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -32,6 +34,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -86,8 +92,16 @@
       <option name="presentableId" value="Default" />
       <updated>1621930586682</updated>
       <workItem from="1621930587892" duration="2190000" />
-      <workItem from="1621990293035" duration="2365000" />
+      <workItem from="1621990293035" duration="3386000" />
     </task>
+    <task id="LOCAL-00001" summary="sprint commit">
+      <created>1621992831133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621992831133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +118,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sprint commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="sprint commit" />
   </component>
 </project>
